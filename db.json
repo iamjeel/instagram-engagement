@@ -1,0 +1,22 @@
+{
+    "instagram-data": {
+      "posts": [
+        {
+          "id": "1",
+          "link": "https://instagram.com/p/post1",
+          "likes": 500,
+          "comments": 45,
+          "shares": 12
+        },
+        {
+          "id": "2",
+          "link": "https://instagram.com/p/post2",
+          "likes": 300,
+          "comments": 23,
+          "shares": 8
+        }
+      ]
+    }
+  }
+
+  

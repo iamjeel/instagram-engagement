@@ -1,0 +1,19 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "link": "https://instagram.com/p/abc1",
+        "likes": 100,
+        "comments": 50,
+        "shares": 10
+      },
+      {
+        "id": "2",
+        "link": "https://instagram.com/p/abc2",
+        "likes": 200,
+        "comments": 100,
+        "shares": 20
+      }
+    ]
+  }
+  
